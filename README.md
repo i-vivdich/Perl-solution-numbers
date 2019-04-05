@@ -7,7 +7,7 @@ Returns values of min, max, median, average for the given file (-file), if possi
 
 ## Content
 
-* [Getting Started](#Getting Started)
+* [Getting Started](#Getting-Started)
 * [Prerequisites](#Prerequisites)
 * [Working with the script](#Working with the script)
   - [General use-case](#General use-case)
