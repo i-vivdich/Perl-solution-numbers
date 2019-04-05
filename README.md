@@ -5,6 +5,24 @@ as a part of the 'Become a Developer' course attendants selection.
 
 Returns values of min, max, median, average for the given file (-file), if possible.
 
+## Content
+
+* [Getting Started](#Getting Started)
+* [Prerequisites](#Prerequisites)
+* [Working with the script](#Working with the script)
+  - [General use-case](#General use-case)
+  - [How to run](#How to run)
+  - [Sample output](#Sample output)
+  - [Run the script with the delimiter pattern being written explicitly](#Run the script with the delimiter pattern being written explicitly)
+  - [Other flags](#Other flags)
+* [Solution description](#Solution description)
+	- [Parsing the cli arguments and displaying man/help pages](#Parsing the cli arguments and displaying man/help pages)
+	- [Processing a file](#Processing a file)
+	- [Calculating values](#Calculating values)
+* [Benchmarking](#Benchmarking)
+* [Author](#Author)
+* [License](#License)
+
 ## Getting Started
 
 Feel free to clone repository in order to start working with it
@@ -99,7 +117,7 @@ Taking into account that the tests may vary from computer to computer and that b
 
 **On average, it takes ~20 sec to compute all the values.**
 
-## Authors
+## Author
 
 * **Igor Vivdich** - *2019*
 
