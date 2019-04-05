@@ -13,7 +13,7 @@ Returns values of min, max, median, average for the given file (-file), if possi
   - [General use-case](#General-use-case)
   - [How to run](#How-to-run)
   - [Sample output](#Sample-output)
-  - [Run the script with the delimiter pattern being written explicitly](#Run-the-script-with-the-delimiter-pattern-being-written explicitly)
+  - [Run the script with the delimiter pattern being written explicitly](#run-the-script-with-the-delimiter-pattern-being-written-explicitly)
   - [Other flags](#Other-flags)
 * [Solution description](#Solution-description)
 	- [Parsing the cli arguments and displaying man/help pages](#Parsing-the-cli-arguments-and-displaying-man/help-pages)
